@@ -4,7 +4,7 @@ My name is **Mohamad Fauzan Akmal Pratama**.
 
 I am a machine learning developer and currently focused on learning mobile and web development.
 
-If you're interested in getting to know me better, please feel free to follow my [Linkedin](https://www.linkedin.com/in/mohamad-fauzan-akmal-pratama)account.
+If you're interested in getting to know me better, please feel free to follow my [Linkedin](https://www.linkedin.com/in/mohamad-fauzan-akmal-pratama) account.
 
 <p align="left">
 <a href="https://github.com/OJJJN">
