@@ -1,11 +1,10 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **Mohamad Fauzan Akmal Pratama**.
+My name is **Mohamad Fauzan Akmal Pratama**.
 
-Saya seorang lulusan **Mahasiswa** di [Gunadarma]().
+I am a machine learning developer and currently focused on learning mobile and web development.
 
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mohamad-fauzan-akmal-pratama)ku ya.
+If you're interested in getting to know me better, please feel free to follow my [Linkedin](https://www.linkedin.com/in/mohamad-fauzan-akmal-pratama)account.
 
 <p align="left">
 <a href="https://github.com/OJJJN">
