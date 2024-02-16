@@ -1,10 +1,20 @@
-# Hello everyone!
+### <div align="center">Hi 👋 I'm Mohamad Fauzan Akmal Pratama</div> 
 
-My name is **Mohamad Fauzan Akmal Pratama**.
+- 🔭 I am a machine learning developer and currently focused on learning mobile and web development.
+- ❓ Ask me about anything related to Machine Learning and related technologies.
+- ⚡ Fun fact: I'm a good learner.    
 
-I am a machine learning developer and currently focused on learning mobile and web development.
 
-If you're interested in getting to know me better, please feel free to follow my [Linkedin](https://www.linkedin.com/in/mohamad-fauzan-akmal-pratama) account.
+<br/>  
+<div align="center">
+<a href="https://github.com/OJJJN" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mohamad-fauzan-akmal-pratama" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+</div>  
+<br/>  
 
 ## My Skill Set  
 <div align="center"> 
