@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋 I'm Mohamad Fauzan Akmal Pratama</div> 
 
-- 🔭 I am a machine learning developer and currently focused on learning mobile and web development.
+- 🔭 I am a machine learning developer and currently focused on learning Full stack developer.
 - ❓ Ask me about anything related to Machine Learning and related technologies.
 - ⚡ Fun fact: I'm a good learner.    
 
