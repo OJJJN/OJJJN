@@ -1,8 +1,10 @@
 ### <div align="center">Hi 👋 I'm Mohamad Fauzan Akmal Pratama</div> 
 
-- 🔭 I am a machine learning developer and currently focused on learning Full stack developer.
-- ❓ Ask me about anything related to Machine Learning and related technologies.
-- ⚡ Fun fact: I'm a good learner.    
+- 🔭 I am a passionate Software Engineer with expertise in R&D Software Development, Full-Stack Development, and Machine Learning.
+- 🌱 My love for learning new technologies drives me to constantly grow and expand my skills.
+- 💼 I've also gained experience in Mobile Development and Junior Project Management, blending technical expertise with leadership abilities.
+- 💬 I'm a strong believer in mentorship and teamwork, striving to foster a positive and collaborative learning environment.
+- ⚡ Fun fact: I'm always eager to explore and adapt to the latest advancements in tech!
 
 
 <br/>  
